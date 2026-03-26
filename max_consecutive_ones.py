@@ -13,3 +13,4 @@ class Solution:
     
 print(Solution().findMaxConsecutiveOnes(nums = [1,1,0,1,1,1]))
 print(Solution().findMaxConsecutiveOnes(nums = [1,0,1,1,0,1]))
+print(Solution().findMaxConsecutiveOnes(nums = [1,0,1,1,0,1,1,1,1,0,1]))
